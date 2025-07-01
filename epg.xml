@@ -67894,18 +67894,6 @@ Meduza; Goodboys	- Piece Of Your Heart</desc>
   <channel id="majorleaguecricketsanfranciscounicornsvsseattleorcas">
     <display-name>Major League Cricket : San Francisco Unicorns vs Seattle Orcas</display-name>
   </channel>
-  <channel id="atpwimbledonhalysqvsholmgrena">
-    <display-name>ATP - WIMBLEDON : Halys Q. vs Holmgren A.</display-name>
-  </channel>
-  <channel id="atpwimbledonmochizukisvszeppierig">
-    <display-name>ATP - WIMBLEDON : Mochizuki S. vs Zeppieri G.</display-name>
-  </channel>
-  <channel id="atpwimbledonofnersvsmedjedovich">
-    <display-name>ATP - WIMBLEDON : Ofner S. vs Medjedovic H.</display-name>
-  </channel>
-  <channel id="atpwimbledonsinnerjvsnardil">
-    <display-name>ATP - WIMBLEDON : Sinner J. vs Nardi L.</display-name>
-  </channel>
   <channel id="atpwimbledonevansdvsclarkej">
     <display-name>ATP - WIMBLEDON : Evans D. vs Clarke J.</display-name>
   </channel>
@@ -67965,21 +67953,6 @@ Meduza; Goodboys	- Piece Of Your Heart</desc>
   </channel>
   <channel id="atpwimbledonwimbledonhighlightshow">
     <display-name>ATP - WIMBLEDON : Wimbledon Highlight Show</display-name>
-  </channel>
-  <channel id="wtawimbledonjointmvssamsonoval">
-    <display-name>WTA - WIMBLEDON : Joint M. vs Samsonova L.</display-name>
-  </channel>
-  <channel id="wtawimbledonkalinskayaavsstojanovicn">
-    <display-name>WTA - WIMBLEDON : Kalinskaya A. vs Stojanovic N.</display-name>
-  </channel>
-  <channel id="wtawimbledonsiniakovakvszhengq">
-    <display-name>WTA - WIMBLEDON : Siniakova K. vs Zheng Q.</display-name>
-  </channel>
-  <channel id="wtawimbledonteichmannjvsbronzettil">
-    <display-name>WTA - WIMBLEDON : Teichmann J. vs Bronzetti L.</display-name>
-  </channel>
-  <channel id="wtawimbledonkrejcikovabvsealaa">
-    <display-name>WTA - WIMBLEDON : Krejcikova B. vs Eala A.</display-name>
   </channel>
   <channel id="wtawimbledonbaptistehvscirsteas">
     <display-name>WTA - WIMBLEDON : Baptiste H. vs Cirstea S.</display-name>
@@ -68082,9 +68055,6 @@ Meduza; Goodboys	- Piece Of Your Heart</desc>
   </channel>
   <channel id="u21menshandballworldcupuruguayvsbrazil">
     <display-name>U-21 Men's Handball World Cup: Uruguay vs Brazil</display-name>
-  </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
   </channel>
   <channel id="tsnfreeagentfrenzy">
     <display-name>TSN Free Agent Frenzy</display-name>
@@ -68468,86 +68438,6 @@ Meduza; Goodboys	- Piece Of Your Heart</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Major League Cricket : San Francisco Unicorns vs Seattle Orcas</desc>
     <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="atpwimbledonhalysqvsholmgrena">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Halys Q. vs Holmgren A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="atpwimbledonhalysqvsholmgrena">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Halys Q. vs Holmgren A.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="atpwimbledonhalysqvsholmgrena">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Halys Q. vs Holmgren A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="atpwimbledonhalysqvsholmgrena">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Halys Q. vs Holmgren A.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="atpwimbledonmochizukisvszeppierig">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Mochizuki S. vs Zeppieri G..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="atpwimbledonmochizukisvszeppierig">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Mochizuki S. vs Zeppieri G.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="atpwimbledonmochizukisvszeppierig">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Mochizuki S. vs Zeppieri G..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="atpwimbledonmochizukisvszeppierig">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Mochizuki S. vs Zeppieri G.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="atpwimbledonofnersvsmedjedovich">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Ofner S. vs Medjedovic H..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="atpwimbledonofnersvsmedjedovich">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Ofner S. vs Medjedovic H.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="atpwimbledonofnersvsmedjedovich">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Ofner S. vs Medjedovic H..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="atpwimbledonofnersvsmedjedovich">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Ofner S. vs Medjedovic H.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701143000 +0200" channel="atpwimbledonsinnerjvsnardil">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : Sinner J. vs Nardi L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701143000 +0200" stop="20250701163000 +0200" channel="atpwimbledonsinnerjvsnardil">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Sinner J. vs Nardi L.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701143000 +0200" channel="atpwimbledonsinnerjvsnardil">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : Sinner J. vs Nardi L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701143000 +0200" stop="20250701163000 +0200" channel="atpwimbledonsinnerjvsnardil">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Sinner J. vs Nardi L.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
   </programme>
   <programme start="20250701000000 +0200" stop="20250701150000 +0200" channel="atpwimbledonevansdvsclarkej">
     <title lang="it">Inizia alle 15:00.</title>
@@ -68938,106 +68828,6 @@ Meduza; Goodboys	- Piece Of Your Heart</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP - WIMBLEDON : Wimbledon Highlight Show</desc>
     <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="wtawimbledonjointmvssamsonoval">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Joint M. vs Samsonova L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="wtawimbledonjointmvssamsonoval">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Joint M. vs Samsonova L.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="wtawimbledonjointmvssamsonoval">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Joint M. vs Samsonova L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="wtawimbledonjointmvssamsonoval">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Joint M. vs Samsonova L.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="wtawimbledonkalinskayaavsstojanovicn">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Kalinskaya A. vs Stojanovic N..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="wtawimbledonkalinskayaavsstojanovicn">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Kalinskaya A. vs Stojanovic N.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="wtawimbledonkalinskayaavsstojanovicn">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Kalinskaya A. vs Stojanovic N..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="wtawimbledonkalinskayaavsstojanovicn">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Kalinskaya A. vs Stojanovic N.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="wtawimbledonsiniakovakvszhengq">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Siniakova K. vs Zheng Q..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="wtawimbledonsiniakovakvszhengq">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Siniakova K. vs Zheng Q.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="wtawimbledonsiniakovakvszhengq">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Siniakova K. vs Zheng Q..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="wtawimbledonsiniakovakvszhengq">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Siniakova K. vs Zheng Q.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="wtawimbledonteichmannjvsbronzettil">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Teichmann J. vs Bronzetti L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="wtawimbledonteichmannjvsbronzettil">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Teichmann J. vs Bronzetti L.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="wtawimbledonteichmannjvsbronzettil">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Teichmann J. vs Bronzetti L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="wtawimbledonteichmannjvsbronzettil">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Teichmann J. vs Bronzetti L.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701143000 +0200" channel="wtawimbledonkrejcikovabvsealaa">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA - WIMBLEDON : Krejcikova B. vs Eala A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701143000 +0200" stop="20250701163000 +0200" channel="wtawimbledonkrejcikovabvsealaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Krejcikova B. vs Eala A.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701143000 +0200" channel="wtawimbledonkrejcikovabvsealaa">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA - WIMBLEDON : Krejcikova B. vs Eala A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701143000 +0200" stop="20250701163000 +0200" channel="wtawimbledonkrejcikovabvsealaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Krejcikova B. vs Eala A.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
   </programme>
   <programme start="20250701000000 +0200" stop="20250701150000 +0200" channel="wtawimbledonbaptistehvscirsteas">
     <title lang="it">Inizia alle 15:00.</title>
@@ -70378,16 +70168,6 @@ Meduza; Goodboys	- Piece Of Your Heart</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">U-21 Men's Handball World Cup: Uruguay vs Brazil</desc>
     <category lang="it">Handball</category>
-  </programme>
-  <programme start="20250701000000 +0200" stop="20250701140000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250701140000 +0200" stop="20250701160000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
   <programme start="20250701000000 +0200" stop="20250701170000 +0200" channel="tsnfreeagentfrenzy">
     <title lang="it">Inizia alle 17:00.</title>
