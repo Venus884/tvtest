@@ -65722,9 +65722,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
   <channel id="wnbaseattlestormvsatlantadream">
     <display-name>WNBA : Seattle Storm vs Atlanta Dream</display-name>
   </channel>
-  <channel id="henleyroyalregattaday4">
-    <display-name>Henley Royal Regatta Day 4</display-name>
-  </channel>
   <channel id="tourdefranceteampresentationmen">
     <display-name>Tour de France | Team Presentation Men</display-name>
   </channel>
@@ -65742,9 +65739,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
   </channel>
   <channel id="superleaguerugbycastlefordtigersvshuddersfield">
     <display-name>Super League Rugby : Castleford Tigers vs Huddersfield</display-name>
-  </channel>
-  <channel id="padeltournamentbordeaux37">
-    <display-name>Padel Tournament, Bordeaux 3.7</display-name>
   </channel>
   <programme start="20250703000000 +0200" stop="20250703210000 +0200" channel="generalhospitalseason62episode207">
     <title lang="it">Inizia alle 21:00.</title>
@@ -69326,16 +69320,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
     <desc lang="it">WNBA : Seattle Storm vs Atlanta Dream</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <programme start="20250703000000 +0200" stop="20250703100000 +0200" channel="henleyroyalregattaday4">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Henley Royal Regatta Day 4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250703100000 +0200" stop="20250703120000 +0200" channel="henleyroyalregattaday4">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Henley Royal Regatta Day 4</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
   <programme start="20250703000000 +0200" stop="20250703183000 +0200" channel="tourdefranceteampresentationmen">
     <title lang="it">Inizia alle 18:30.</title>
     <desc lang="it">Tour de France | Team Presentation Men.</desc>
@@ -69505,15 +69489,5 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Super League Rugby : Castleford Tigers vs Huddersfield</desc>
     <category lang="it">Rugby League</category>
-  </programme>
-  <programme start="20250703000000 +0200" stop="20250703100000 +0200" channel="padeltournamentbordeaux37">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Padel Tournament, Bordeaux 3.7.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250703100000 +0200" stop="20250703120000 +0200" channel="padeltournamentbordeaux37">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Padel Tournament, Bordeaux 3.7</desc>
-    <category lang="it">Squash</category>
   </programme>
 </tv>
