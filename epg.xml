@@ -66827,9 +66827,6 @@ Enrique Iglesias - Turn The Night Up</desc>
   <channel id="majorleaguepickleballlivefromrandallsislandgame7">
     <display-name>Major League Pickleball Live From Randall's Island, Game 7</display-name>
   </channel>
-  <channel id="formula3qatarairwaysbritishgppractice">
-    <display-name>Formula 3 : Qatar Airways British GP - Practice</display-name>
-  </channel>
   <channel id="formula2qatarairwaysbritishgppractice">
     <display-name>Formula 2 : Qatar Airways British GP - Practice</display-name>
   </channel>
@@ -66938,9 +66935,6 @@ Enrique Iglesias - Turn The Night Up</desc>
   <channel id="womensamericupbrazilwvsmexicow">
     <display-name>Women's AmeriCup : Brazil W vs Mexico W</display-name>
   </channel>
-  <channel id="henleyroyalregattaday4">
-    <display-name>Henley Royal Regatta Day 4</display-name>
-  </channel>
   <channel id="pdcdartslivesuperbetpolanddartsmastersprezeroarenagliwice">
     <display-name>PDC Darts Live Superbet Poland Darts Masters - PreZero Arena, Gliwice</display-name>
   </channel>
@@ -66985,9 +66979,6 @@ Enrique Iglesias - Turn The Night Up</desc>
   </channel>
   <channel id="worldchampionshipu20irelandu20vsitalyu20">
     <display-name>World Championship U20 : Ireland U20 vs Italy U20</display-name>
-  </channel>
-  <channel id="premierpadelbordeauxt2025womensquarterfinal1">
-    <display-name>Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1</display-name>
   </channel>
   <channel id="premierpadelbordeauxt2025mensquarterfinal1">
     <display-name>Premier Padel. Bordeaux (T2025): Men's Quarterfinal 1</display-name>
@@ -69857,126 +69848,6 @@ Enrique Iglesias - Turn The Night Up</desc>
     <desc lang="it">Major League Pickleball Live From Randall's Island, Game 7</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="formula3qatarairwaysbritishgppractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20250704000000 +0200" stop="20250704110000 +0200" channel="formula2qatarairwaysbritishgppractice">
     <title lang="it">Inizia alle 11:00.</title>
     <desc lang="it">Formula 2 : Qatar Airways British GP - Practice.</desc>
@@ -71847,16 +71718,6 @@ Enrique Iglesias - Turn The Night Up</desc>
     <desc lang="it">Women's AmeriCup : Brazil W vs Mexico W</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="henleyroyalregattaday4">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Henley Royal Regatta Day 4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="henleyroyalregattaday4">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Henley Royal Regatta Day 4</desc>
-    <category lang="it">Sailing / Boating</category>
-  </programme>
   <programme start="20250704000000 +0200" stop="20250704190000 +0200" channel="pdcdartslivesuperbetpolanddartsmastersprezeroarenagliwice">
     <title lang="it">Inizia alle 19:00.</title>
     <desc lang="it">PDC Darts Live Superbet Poland Darts Masters - PreZero Arena, Gliwice.</desc>
@@ -72186,66 +72047,6 @@ Enrique Iglesias - Turn The Night Up</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Championship U20 : Ireland U20 vs Italy U20</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704100000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704100000 +0200" stop="20250704120000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 1</desc>
-    <category lang="it">Squash</category>
   </programme>
   <programme start="20250704000000 +0200" stop="20250704120000 +0200" channel="premierpadelbordeauxt2025mensquarterfinal1">
     <title lang="it">Inizia alle 12:00.</title>
