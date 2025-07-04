@@ -66365,7 +66365,43 @@ The Black Eyed Peas - Don't Stop The Party</desc>
     <category>Series</category>
     <category>Entertainment</category>
   </programme>
-<channel id="robogobothechirpchasersplaydayseason1episode21">
+<channel id="gcwbackyardwrestling7">
+    <display-name>GCW: Backyard Wrestling 7</display-name>
+  </channel>
+  <channel id="ncl55projectnorth">
+    <display-name>NCL 55: Project: NORTH</display-name>
+  </channel>
+  <channel id="2025lucasoillatemodeldirtseriesatatomicspeedway">
+    <display-name>2025 Lucas Oil Late Model Dirt Series at Atomic Speedway</display-name>
+  </channel>
+  <channel id="2025themiravisionchallengeatautodromegranby">
+    <display-name>2025 The Mira Vision Challenge at Autodrome Granby</display-name>
+  </channel>
+  <channel id="atticaspeedwaysprintcars">
+    <display-name>Attica Speedway Sprint Cars</display-name>
+  </channel>
+  <channel id="williamsgrovespeedwaysprints">
+    <display-name>Williams Grove Speedway Sprints</display-name>
+  </channel>
+  <channel id="2025usacbillgardnersprintacularatlincolnparkspeedway">
+    <display-name>2025 USAC Bill Gardner Sprintacular at Lincoln Park Speedway</display-name>
+  </channel>
+  <channel id="2025napaallstarcircuitofchampionsatstatelinespeedway">
+    <display-name>2025 NAPA All Star Circuit of Champions at Stateline Speedway</display-name>
+  </channel>
+  <channel id="prowrestlingrevolutionluchalibresanjosefebruary2025enespaol">
+    <display-name>Pro Wrestling Revolution: Lucha Libre - San Jose, February 2025 (en Español)</display-name>
+  </channel>
+  <channel id="worldofoutlawslatemodels">
+    <display-name>World of Outlaws Late Models</display-name>
+  </channel>
+  <channel id="americansprintcarseriesbelleville">
+    <display-name>American Sprint Car Series Belleville</display-name>
+  </channel>
+  <channel id="dirtcarsummernationalslatemodelsredhil">
+    <display-name>DIRTcar Summer Nationals Late Models Red Hil</display-name>
+  </channel>
+  <channel id="robogobothechirpchasersplaydayseason1episode21">
     <display-name>Robogobo The Chirp Chasers; Play Day Season 1, Episode 21</display-name>
   </channel>
   <channel id="thepitt700amseason1episode1premiere">
@@ -66458,12 +66494,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
   <channel id="majorleaguecricketseattleorcasvswashingtonfreedom">
     <display-name>Major League Cricket : Seattle Orcas vs Washington Freedom</display-name>
   </channel>
-  <channel id="atpwimbledonwimbledonpressconferences">
-    <display-name>ATP - WIMBLEDON : Wimbledon Press Conferences</display-name>
-  </channel>
-  <channel id="atpwimbledonfritztvsdavidovichfokinaa">
-    <display-name>ATP - WIMBLEDON : Fritz T. vs Davidovich Fokina A.</display-name>
-  </channel>
   <channel id="atpwimbledonmajchrzakkvsrinderknecha">
     <display-name>ATP - WIMBLEDON : Majchrzak K. vs Rinderknech A.</display-name>
   </channel>
@@ -66479,17 +66509,14 @@ The Black Eyed Peas - Don't Stop The Party</desc>
   <channel id="atpwimbledondarderilvsthompsonj">
     <display-name>ATP - WIMBLEDON : Darderi L. vs Thompson J.</display-name>
   </channel>
+  <channel id="atpwimbledonwimbledonpressconferences">
+    <display-name>ATP - WIMBLEDON : Wimbledon Press Conferences</display-name>
+  </channel>
   <channel id="atpwimbledonstruffjlvsalcarazc">
     <display-name>ATP - WIMBLEDON : Struff J-L. vs Alcaraz C.</display-name>
   </channel>
   <channel id="atpwimbledonwimbledonhighlightshow">
     <display-name>ATP - WIMBLEDON : Wimbledon Highlight Show</display-name>
-  </channel>
-  <channel id="wtawimbledonparrydvskartals">
-    <display-name>WTA - WIMBLEDON : Parry D. vs Kartal S.</display-name>
-  </channel>
-  <channel id="wtawimbledonsiegemundlvskeysm">
-    <display-name>WTA - WIMBLEDON : Siegemund L. vs Keys M.</display-name>
   </channel>
   <channel id="wtawimbledonmertensevssvitolinae">
     <display-name>WTA - WIMBLEDON : Mertens E. vs Svitolina E.</display-name>
@@ -66499,9 +66526,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
   </channel>
   <channel id="atpdoubleswimbledoncashrtracyjvshijikatarpeld">
     <display-name>ATP DOUBLES - WIMBLEDON : Cash R./Tracy J. vs Hijikata R./Pel D.</display-name>
-  </channel>
-  <channel id="wtadoubleswimbledonchanhckrejcikovabvserranispaolinij">
-    <display-name>WTA DOUBLES - WIMBLEDON : Chan H-C./Krejcikova B. vs Errani S./Paolini J.</display-name>
   </channel>
   <channel id="wtadoubleswimbledonhsiehswostapenkojvskostyukmruseg">
     <display-name>WTA DOUBLES - WIMBLEDON : Hsieh S-W./Ostapenko J. vs Kostyuk M./Ruse G.</display-name>
@@ -66569,9 +66593,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
   <channel id="indycarseriesseasonthehondaindy200practicesession">
     <display-name>IndyCar Series Season The Honda Indy 200 - Practice Session</display-name>
   </channel>
-  <channel id="onefridayfights">
-    <display-name>ONE Friday Fights</display-name>
-  </channel>
   <channel id="pflomareldafrawyvsdanielemiceli">
     <display-name>PFL : Omar El Dafrawy vs Daniele Miceli</display-name>
   </channel>
@@ -66623,9 +66644,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
   <channel id="mlbbaltimoreoriolesvsatlantabraves">
     <display-name>MLB : Baltimore Orioles vs Atlanta Braves</display-name>
   </channel>
-  <channel id="worldchampionshipu19germanyu19vsaustraliau19">
-    <display-name>World Championship U19 : Germany U19 vs Australia U19</display-name>
-  </channel>
   <channel id="worldchampionshipu19canadau19vsusau19">
     <display-name>World Championship U19 : Canada U19 vs USA U19</display-name>
   </channel>
@@ -66643,12 +66661,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
   </channel>
   <channel id="equitationglobalchampionstour2025globalchampionstour">
     <display-name>Equitation Global Champions Tour 2025 Global Champions Tour</display-name>
-  </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
-  <channel id="liveracingfromsandownhaydockbeverleywexfordandbellowstown">
-    <display-name>Live racing from Sandown, Haydock, Beverley, Wexford and Bellowstown</display-name>
   </channel>
   <channel id="thebelmontderby">
     <display-name>The Belmont Derby</display-name>
@@ -66680,9 +66692,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
   <channel id="worldchampionshipu20irelandu20vsitalyu20">
     <display-name>World Championship U20 : Ireland U20 vs Italy U20</display-name>
   </channel>
-  <channel id="premierpadelbordeauxt2025womensquarterfinal2">
-    <display-name>Premier Padel. Bordeaux (T2025): Women's Quarterfinal 2</display-name>
-  </channel>
   <channel id="premierpadelbordeauxt2025womensquarterfinal3">
     <display-name>Premier Padel. Bordeaux (T2025): Women's Quarterfinal 3</display-name>
   </channel>
@@ -66695,6 +66704,126 @@ The Black Eyed Peas - Don't Stop The Party</desc>
   <channel id="grandprixdivingmeetingbolzano2025finals1stday">
     <display-name>Grand Prix Diving Meeting Bolzano 2025-Finals 1st day</display-name>
   </channel>
+  <programme start="20250704000000 +0200" stop="20250704200000 +0200" channel="gcwbackyardwrestling7">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">GCW: Backyard Wrestling 7.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704200000 +0200" stop="20250704220000 +0200" channel="gcwbackyardwrestling7">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">GCW: Backyard Wrestling 7</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704223000 +0200" channel="ncl55projectnorth">
+    <title lang="it">Inizia alle 22:30.</title>
+    <desc lang="it">NCL 55: Project: NORTH.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704223000 +0200" stop="20250705003000 +0200" channel="ncl55projectnorth">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCL 55: Project: NORTH</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704234500 +0200" channel="2025lucasoillatemodeldirtseriesatatomicspeedway">
+    <title lang="it">Inizia alle 23:45.</title>
+    <desc lang="it">2025 Lucas Oil Late Model Dirt Series at Atomic Speedway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704234500 +0200" stop="20250705014500 +0200" channel="2025lucasoillatemodeldirtseriesatatomicspeedway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Lucas Oil Late Model Dirt Series at Atomic Speedway</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250705001500 +0200" channel="2025themiravisionchallengeatautodromegranby">
+    <title lang="it">Inizia alle 00:15.</title>
+    <desc lang="it">2025 The Mira Vision Challenge at Autodrome Granby.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705001500 +0200" stop="20250705021500 +0200" channel="2025themiravisionchallengeatautodromegranby">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 The Mira Vision Challenge at Autodrome Granby</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250705003000 +0200" channel="atticaspeedwaysprintcars">
+    <title lang="it">Inizia alle 00:30.</title>
+    <desc lang="it">Attica Speedway Sprint Cars.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705003000 +0200" stop="20250705023000 +0200" channel="atticaspeedwaysprintcars">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Attica Speedway Sprint Cars</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250705010000 +0200" channel="williamsgrovespeedwaysprints">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Williams Grove Speedway Sprints.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705010000 +0200" stop="20250705030000 +0200" channel="williamsgrovespeedwaysprints">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Williams Grove Speedway Sprints</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250705010000 +0200" channel="2025usacbillgardnersprintacularatlincolnparkspeedway">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">2025 USAC Bill Gardner Sprintacular at Lincoln Park Speedway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705010000 +0200" stop="20250705030000 +0200" channel="2025usacbillgardnersprintacularatlincolnparkspeedway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 USAC Bill Gardner Sprintacular at Lincoln Park Speedway</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250705010000 +0200" channel="2025napaallstarcircuitofchampionsatstatelinespeedway">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">2025 NAPA All Star Circuit of Champions at Stateline Speedway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705010000 +0200" stop="20250705030000 +0200" channel="2025napaallstarcircuitofchampionsatstatelinespeedway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 NAPA All Star Circuit of Champions at Stateline Speedway</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250705010000 +0200" channel="prowrestlingrevolutionluchalibresanjosefebruary2025enespaol">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Pro Wrestling Revolution: Lucha Libre - San Jose, February 2025 (en Español).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705010000 +0200" stop="20250705030000 +0200" channel="prowrestlingrevolutionluchalibresanjosefebruary2025enespaol">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Pro Wrestling Revolution: Lucha Libre - San Jose, February 2025 (en Español)</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250705011500 +0200" channel="worldofoutlawslatemodels">
+    <title lang="it">Inizia alle 01:15.</title>
+    <desc lang="it">World of Outlaws Late Models.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705011500 +0200" stop="20250705031500 +0200" channel="worldofoutlawslatemodels">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World of Outlaws Late Models</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250705011500 +0200" channel="americansprintcarseriesbelleville">
+    <title lang="it">Inizia alle 01:15.</title>
+    <desc lang="it">American Sprint Car Series Belleville.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705011500 +0200" stop="20250705031500 +0200" channel="americansprintcarseriesbelleville">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">American Sprint Car Series Belleville</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250705013000 +0200" channel="dirtcarsummernationalslatemodelsredhil">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">DIRTcar Summer Nationals Late Models Red Hil.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705013000 +0200" stop="20250705033000 +0200" channel="dirtcarsummernationalslatemodelsredhil">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">DIRTcar Summer Nationals Late Models Red Hil</desc>
+    <category lang="it">PPV Events</category>
+  </programme>
   <programme start="20250704000000 +0200" stop="20250704150000 +0200" channel="robogobothechirpchasersplaydayseason1episode21">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">Robogobo The Chirp Chasers; Play Day Season 1, Episode 21.</desc>
@@ -67985,134 +68114,114 @@ The Black Eyed Peas - Don't Stop The Party</desc>
     <desc lang="it">Major League Cricket : Seattle Orcas vs Washington Freedom</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20250704000000 +0200" stop="20250704140800 +0200" channel="atpwimbledonwimbledonpressconferences">
-    <title lang="it">Inizia alle 14:08.</title>
+  <programme start="20250704000000 +0200" stop="20250704150000 +0200" channel="atpwimbledonmajchrzakkvsrinderknecha">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">ATP - WIMBLEDON : Majchrzak K. vs Rinderknech A..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704150000 +0200" stop="20250704170000 +0200" channel="atpwimbledonmajchrzakkvsrinderknecha">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - WIMBLEDON : Majchrzak K. vs Rinderknech A.</desc>
+    <category lang="it">Tennis ATP - WIMBLEDON</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704150000 +0200" channel="atpwimbledonmajchrzakkvsrinderknecha">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">ATP - WIMBLEDON : Majchrzak K. vs Rinderknech A..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704150000 +0200" stop="20250704170000 +0200" channel="atpwimbledonmajchrzakkvsrinderknecha">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - WIMBLEDON : Majchrzak K. vs Rinderknech A.</desc>
+    <category lang="it">Tennis ATP - WIMBLEDON</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonbelluccimvsnorriec">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">ATP - WIMBLEDON : Bellucci M. vs Norrie C..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonbelluccimvsnorriec">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - WIMBLEDON : Bellucci M. vs Norrie C.</desc>
+    <category lang="it">Tennis ATP - WIMBLEDON</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonbelluccimvsnorriec">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">ATP - WIMBLEDON : Bellucci M. vs Norrie C..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonbelluccimvsnorriec">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - WIMBLEDON : Bellucci M. vs Norrie C.</desc>
+    <category lang="it">Tennis ATP - WIMBLEDON</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonborgesnvskhachanovk">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">ATP - WIMBLEDON : Borges N. vs Khachanov K..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonborgesnvskhachanovk">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - WIMBLEDON : Borges N. vs Khachanov K.</desc>
+    <category lang="it">Tennis ATP - WIMBLEDON</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonborgesnvskhachanovk">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">ATP - WIMBLEDON : Borges N. vs Khachanov K..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonborgesnvskhachanovk">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - WIMBLEDON : Borges N. vs Khachanov K.</desc>
+    <category lang="it">Tennis ATP - WIMBLEDON</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonjarrynvsfonsecaj">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">ATP - WIMBLEDON : Jarry N. vs Fonseca J..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonjarrynvsfonsecaj">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - WIMBLEDON : Jarry N. vs Fonseca J.</desc>
+    <category lang="it">Tennis ATP - WIMBLEDON</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonjarrynvsfonsecaj">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">ATP - WIMBLEDON : Jarry N. vs Fonseca J..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonjarrynvsfonsecaj">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - WIMBLEDON : Jarry N. vs Fonseca J.</desc>
+    <category lang="it">Tennis ATP - WIMBLEDON</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704160000 +0200" channel="atpwimbledondarderilvsthompsonj">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">ATP - WIMBLEDON : Darderi L. vs Thompson J..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704160000 +0200" stop="20250704180000 +0200" channel="atpwimbledondarderilvsthompsonj">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - WIMBLEDON : Darderi L. vs Thompson J.</desc>
+    <category lang="it">Tennis ATP - WIMBLEDON</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704160000 +0200" channel="atpwimbledondarderilvsthompsonj">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">ATP - WIMBLEDON : Darderi L. vs Thompson J..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250704160000 +0200" stop="20250704180000 +0200" channel="atpwimbledondarderilvsthompsonj">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP - WIMBLEDON : Darderi L. vs Thompson J.</desc>
+    <category lang="it">Tennis ATP - WIMBLEDON</category>
+  </programme>
+  <programme start="20250704000000 +0200" stop="20250704160100 +0200" channel="atpwimbledonwimbledonpressconferences">
+    <title lang="it">Inizia alle 16:01.</title>
     <desc lang="it">ATP - WIMBLEDON : Wimbledon Press Conferences.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250704140800 +0200" stop="20250704160800 +0200" channel="atpwimbledonwimbledonpressconferences">
+  <programme start="20250704160100 +0200" stop="20250704180100 +0200" channel="atpwimbledonwimbledonpressconferences">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP - WIMBLEDON : Wimbledon Press Conferences</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="atpwimbledonfritztvsdavidovichfokinaa">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : Fritz T. vs Davidovich Fokina A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="atpwimbledonfritztvsdavidovichfokinaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Fritz T. vs Davidovich Fokina A.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="atpwimbledonfritztvsdavidovichfokinaa">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : Fritz T. vs Davidovich Fokina A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="atpwimbledonfritztvsdavidovichfokinaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Fritz T. vs Davidovich Fokina A.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704150000 +0200" channel="atpwimbledonmajchrzakkvsrinderknecha">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Majchrzak K. vs Rinderknech A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704150000 +0200" stop="20250704170000 +0200" channel="atpwimbledonmajchrzakkvsrinderknecha">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Majchrzak K. vs Rinderknech A.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704150000 +0200" channel="atpwimbledonmajchrzakkvsrinderknecha">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Majchrzak K. vs Rinderknech A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704150000 +0200" stop="20250704170000 +0200" channel="atpwimbledonmajchrzakkvsrinderknecha">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Majchrzak K. vs Rinderknech A.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonbelluccimvsnorriec">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : Bellucci M. vs Norrie C..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonbelluccimvsnorriec">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Bellucci M. vs Norrie C.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonbelluccimvsnorriec">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : Bellucci M. vs Norrie C..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonbelluccimvsnorriec">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Bellucci M. vs Norrie C.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonborgesnvskhachanovk">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : Borges N. vs Khachanov K..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonborgesnvskhachanovk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Borges N. vs Khachanov K.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonborgesnvskhachanovk">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : Borges N. vs Khachanov K..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonborgesnvskhachanovk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Borges N. vs Khachanov K.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonjarrynvsfonsecaj">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : Jarry N. vs Fonseca J..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonjarrynvsfonsecaj">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Jarry N. vs Fonseca J.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="atpwimbledonjarrynvsfonsecaj">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : Jarry N. vs Fonseca J..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="atpwimbledonjarrynvsfonsecaj">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Jarry N. vs Fonseca J.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704160000 +0200" channel="atpwimbledondarderilvsthompsonj">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Darderi L. vs Thompson J..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704160000 +0200" stop="20250704180000 +0200" channel="atpwimbledondarderilvsthompsonj">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Darderi L. vs Thompson J.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704160000 +0200" channel="atpwimbledondarderilvsthompsonj">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Darderi L. vs Thompson J..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704160000 +0200" stop="20250704180000 +0200" channel="atpwimbledondarderilvsthompsonj">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Darderi L. vs Thompson J.</desc>
     <category lang="it">Tennis ATP - WIMBLEDON</category>
   </programme>
   <programme start="20250704000000 +0200" stop="20250704163000 +0200" channel="atpwimbledonstruffjlvsalcarazc">
@@ -68145,46 +68254,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
     <desc lang="it">ATP - WIMBLEDON : Wimbledon Highlight Show</desc>
     <category lang="it">Tennis ATP - WIMBLEDON</category>
   </programme>
-  <programme start="20250704000000 +0200" stop="20250704140000 +0200" channel="wtawimbledonparrydvskartals">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Parry D. vs Kartal S..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704140000 +0200" stop="20250704160000 +0200" channel="wtawimbledonparrydvskartals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Parry D. vs Kartal S.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704140000 +0200" channel="wtawimbledonparrydvskartals">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Parry D. vs Kartal S..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704140000 +0200" stop="20250704160000 +0200" channel="wtawimbledonparrydvskartals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Parry D. vs Kartal S.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704140000 +0200" channel="wtawimbledonsiegemundlvskeysm">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Siegemund L. vs Keys M..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704140000 +0200" stop="20250704160000 +0200" channel="wtawimbledonsiegemundlvskeysm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Siegemund L. vs Keys M.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704140000 +0200" channel="wtawimbledonsiegemundlvskeysm">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Siegemund L. vs Keys M..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704140000 +0200" stop="20250704160000 +0200" channel="wtawimbledonsiegemundlvskeysm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Siegemund L. vs Keys M.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
   <programme start="20250704000000 +0200" stop="20250704173000 +0200" channel="wtawimbledonmertensevssvitolinae">
     <title lang="it">Inizia alle 17:30.</title>
     <desc lang="it">WTA - WIMBLEDON : Mertens E. vs Svitolina E..</desc>
@@ -68244,26 +68313,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP DOUBLES - WIMBLEDON : Cash R./Tracy J. vs Hijikata R./Pel D.</desc>
     <category lang="it">Tennis ATP DOUBLES - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="wtadoubleswimbledonchanhckrejcikovabvserranispaolinij">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON : Chan H-C./Krejcikova B. vs Errani S./Paolini J..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="wtadoubleswimbledonchanhckrejcikovabvserranispaolinij">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON : Chan H-C./Krejcikova B. vs Errani S./Paolini J.</desc>
-    <category lang="it">Tennis WTA DOUBLES - WIMBLEDON</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="wtadoubleswimbledonchanhckrejcikovabvserranispaolinij">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON : Chan H-C./Krejcikova B. vs Errani S./Paolini J..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="wtadoubleswimbledonchanhckrejcikovabvserranispaolinij">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON : Chan H-C./Krejcikova B. vs Errani S./Paolini J.</desc>
-    <category lang="it">Tennis WTA DOUBLES - WIMBLEDON</category>
   </programme>
   <programme start="20250704000000 +0200" stop="20250704150000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskostyukmruseg">
     <title lang="it">Inizia alle 15:00.</title>
@@ -69615,96 +69664,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
     <desc lang="it">IndyCar Series Season The Honda Indy 200 - Practice Session</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="onefridayfights">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="onefridayfights">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="onefridayfights">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="onefridayfights">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="onefridayfights">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="onefridayfights">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="onefridayfights">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="onefridayfights">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="onefridayfights">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="onefridayfights">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="onefridayfights">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="onefridayfights">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="onefridayfights">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="onefridayfights">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="onefridayfights">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="onefridayfights">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="onefridayfights">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ONE Friday Fights.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="onefridayfights">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ONE Friday Fights</desc>
-    <category lang="it">MMA</category>
-  </programme>
   <programme start="20250704000000 +0200" stop="20250704180000 +0200" channel="pflomareldafrawyvsdanielemiceli">
     <title lang="it">Inizia alle 18:00.</title>
     <desc lang="it">PFL : Omar El Dafrawy vs Daniele Miceli.</desc>
@@ -70425,36 +70384,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
     <desc lang="it">MLB : Baltimore Orioles vs Atlanta Braves</desc>
     <category lang="it">Baseball</category>
   </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="worldchampionshipu19germanyu19vsaustraliau19">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">World Championship U19 : Germany U19 vs Australia U19.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="worldchampionshipu19germanyu19vsaustraliau19">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship U19 : Germany U19 vs Australia U19</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="worldchampionshipu19germanyu19vsaustraliau19">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">World Championship U19 : Germany U19 vs Australia U19.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="worldchampionshipu19germanyu19vsaustraliau19">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship U19 : Germany U19 vs Australia U19</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="worldchampionshipu19germanyu19vsaustraliau19">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">World Championship U19 : Germany U19 vs Australia U19.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="worldchampionshipu19germanyu19vsaustraliau19">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship U19 : Germany U19 vs Australia U19</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20250704000000 +0200" stop="20250704171500 +0200" channel="worldchampionshipu19canadau19vsusau19">
     <title lang="it">Inizia alle 17:15.</title>
     <desc lang="it">World Championship U19 : Canada U19 vs USA U19.</desc>
@@ -70574,26 +70503,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Equitation Global Champions Tour 2025 Global Champions Tour</desc>
     <category lang="it">Equestrian</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704140000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704140000 +0200" stop="20250704160000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704143000 +0200" channel="liveracingfromsandownhaydockbeverleywexfordandbellowstown">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Live racing from Sandown, Haydock, Beverley, Wexford and Bellowstown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704143000 +0200" stop="20250704163000 +0200" channel="liveracingfromsandownhaydockbeverleywexfordandbellowstown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Sandown, Haydock, Beverley, Wexford and Bellowstown</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
   <programme start="20250704000000 +0200" stop="20250704190000 +0200" channel="thebelmontderby">
     <title lang="it">Inizia alle 19:00.</title>
@@ -70804,56 +70713,6 @@ The Black Eyed Peas - Don't Stop The Party</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Championship U20 : Ireland U20 vs Italy U20</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704140000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal2">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704140000 +0200" stop="20250704160000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 2</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704140000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal2">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704140000 +0200" stop="20250704160000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 2</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704140000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal2">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704140000 +0200" stop="20250704160000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 2</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704140000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal2">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704140000 +0200" stop="20250704160000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 2</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704140000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal2">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704140000 +0200" stop="20250704160000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Quarterfinal 2</desc>
-    <category lang="it">Squash</category>
   </programme>
   <programme start="20250704000000 +0200" stop="20250704170000 +0200" channel="premierpadelbordeauxt2025womensquarterfinal3">
     <title lang="it">Inizia alle 17:00.</title>
