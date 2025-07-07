@@ -67342,9 +67342,6 @@ Topic &amp; A7S - Breaking Me</desc>
   <channel id="nascarcupserieschallengeround2grantpark165">
     <display-name>NASCAR Cup Series Challenge Round 2 - Grant Park 165</display-name>
   </channel>
-  <channel id="atpwimbledondeminauravsdjokovicn">
-    <display-name>ATP - WIMBLEDON : De Minaur A. vs Djokovic N.</display-name>
-  </channel>
   <channel id="atpwimbledonsheltonbvssonegol">
     <display-name>ATP - WIMBLEDON : Shelton B. vs Sonego L.</display-name>
   </channel>
@@ -67353,12 +67350,6 @@ Topic &amp; A7S - Breaking Me</desc>
   </channel>
   <channel id="atpwimbledonwimbledonhighlightshow">
     <display-name>ATP - WIMBLEDON : Wimbledon Highlight Show</display-name>
-  </channel>
-  <channel id="wtawimbledonalexandrovaevsbencicb">
-    <display-name>WTA - WIMBLEDON : Alexandrova E. vs Bencic B.</display-name>
-  </channel>
-  <channel id="wtawimbledonsamsonovalvsbouzasmaneiroj">
-    <display-name>WTA - WIMBLEDON : Samsonova L. vs Bouzas Maneiro J.</display-name>
   </channel>
   <channel id="wtawimbledonandreevamvsnavarroe">
     <display-name>WTA - WIMBLEDON : Andreeva M. vs Navarro E.</display-name>
@@ -67416,12 +67407,6 @@ Topic &amp; A7S - Breaking Me</desc>
   </channel>
   <channel id="uciworldtourstage3tourdefrance">
     <display-name>UCI World Tour Stage 3 - Tour de France</display-name>
-  </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
-  <channel id="liveracingfromayrandroscommon">
-    <display-name>Live racing from Ayr and Roscommon</display-name>
   </channel>
   <programme start="20250707000000 +0200" stop="20250707200000 +0200" channel="beyondthegatesseason1episode84">
     <title lang="it">Inizia alle 20:00.</title>
@@ -68313,26 +68298,6 @@ Topic &amp; A7S - Breaking Me</desc>
     <desc lang="it">NASCAR Cup Series Challenge Round 2 - Grant Park 165</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20250707000000 +0200" stop="20250707143000 +0200" channel="atpwimbledondeminauravsdjokovicn">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : De Minaur A. vs Djokovic N..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250707143000 +0200" stop="20250707163000 +0200" channel="atpwimbledondeminauravsdjokovicn">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : De Minaur A. vs Djokovic N.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250707000000 +0200" stop="20250707143000 +0200" channel="atpwimbledondeminauravsdjokovicn">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">ATP - WIMBLEDON : De Minaur A. vs Djokovic N..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250707143000 +0200" stop="20250707163000 +0200" channel="atpwimbledondeminauravsdjokovicn">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : De Minaur A. vs Djokovic N.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
   <programme start="20250707000000 +0200" stop="20250707153000 +0200" channel="atpwimbledonsheltonbvssonegol">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">ATP - WIMBLEDON : Shelton B. vs Sonego L..</desc>
@@ -68382,46 +68347,6 @@ Topic &amp; A7S - Breaking Me</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP - WIMBLEDON : Wimbledon Highlight Show</desc>
     <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250707000000 +0200" stop="20250707140000 +0200" channel="wtawimbledonalexandrovaevsbencicb">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Alexandrova E. vs Bencic B..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250707140000 +0200" stop="20250707160000 +0200" channel="wtawimbledonalexandrovaevsbencicb">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Alexandrova E. vs Bencic B.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250707000000 +0200" stop="20250707140000 +0200" channel="wtawimbledonalexandrovaevsbencicb">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Alexandrova E. vs Bencic B..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250707140000 +0200" stop="20250707160000 +0200" channel="wtawimbledonalexandrovaevsbencicb">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Alexandrova E. vs Bencic B.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250707000000 +0200" stop="20250707140000 +0200" channel="wtawimbledonsamsonovalvsbouzasmaneiroj">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Samsonova L. vs Bouzas Maneiro J..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250707140000 +0200" stop="20250707160000 +0200" channel="wtawimbledonsamsonovalvsbouzasmaneiroj">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Samsonova L. vs Bouzas Maneiro J.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250707000000 +0200" stop="20250707140000 +0200" channel="wtawimbledonsamsonovalvsbouzasmaneiroj">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Samsonova L. vs Bouzas Maneiro J..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250707140000 +0200" stop="20250707160000 +0200" channel="wtawimbledonsamsonovalvsbouzasmaneiroj">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Samsonova L. vs Bouzas Maneiro J.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
   </programme>
   <programme start="20250707000000 +0200" stop="20250707163000 +0200" channel="wtawimbledonandreevamvsnavarroe">
     <title lang="it">Inizia alle 16:30.</title>
@@ -69052,25 +68977,5 @@ Topic &amp; A7S - Breaking Me</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UCI World Tour Stage 3 - Tour de France</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250707000000 +0200" stop="20250707140000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250707140000 +0200" stop="20250707160000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20250707000000 +0200" stop="20250707143000 +0200" channel="liveracingfromayrandroscommon">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Live racing from Ayr and Roscommon.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250707143000 +0200" stop="20250707163000 +0200" channel="liveracingfromayrandroscommon">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Ayr and Roscommon</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
 </tv>
