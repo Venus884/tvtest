@@ -67244,9 +67244,6 @@ Psy	- Gangnam Style</desc>
   <channel id="missuniverselatinaelrealitynew">
     <display-name>Miss Universe Latina, el reality New</display-name>
   </channel>
-  <channel id="worldclubfriendlynovipazarsrbvsmladostsrb">
-    <display-name>World - Club Friendly : Novi Pazar (Srb) vs Mladost (Srb)</display-name>
-  </channel>
   <channel id="worldclubfriendlyvojvodinavsfehrvr">
     <display-name>World - Club Friendly : Vojvodina vs Fehérvár</display-name>
   </channel>
@@ -67289,23 +67286,14 @@ Psy	- Gangnam Style</desc>
   <channel id="natwestt20blastsomersetvsessex">
     <display-name>NatWest T20 Blast : Somerset vs Essex</display-name>
   </channel>
-  <channel id="atpwimbledonfritztvskhachanovk">
-    <display-name>ATP - WIMBLEDON : Fritz T. vs Khachanov K.</display-name>
-  </channel>
   <channel id="atpwimbledonnorriecvsalcarazc">
     <display-name>ATP - WIMBLEDON : Norrie C. vs Alcaraz C.</display-name>
   </channel>
   <channel id="atpwimbledonwimbledonhighlightshow">
     <display-name>ATP - WIMBLEDON : Wimbledon Highlight Show</display-name>
   </channel>
-  <channel id="wtawimbledonsabalenkaavssiegemundl">
-    <display-name>WTA - WIMBLEDON : Sabalenka A. vs Siegemund L.</display-name>
-  </channel>
   <channel id="wtawimbledonanisimovaavspavlyuchenkovaa">
     <display-name>WTA - WIMBLEDON : Anisimova A. vs Pavlyuchenkova A.</display-name>
-  </channel>
-  <channel id="wtadoubleswimbledongadeckiokrawczykdvsdolehideckenins">
-    <display-name>WTA DOUBLES - WIMBLEDON : Gadecki O./Krawczyk D. vs Dolehide C./Kenin S.</display-name>
   </channel>
   <channel id="wtadoubleswimbledonkudermetovavmertensevsdabrowskigroutliffee">
     <display-name>WTA DOUBLES - WIMBLEDON : Kudermetova V./Mertens E. vs Dabrowski G./Routliffe E.</display-name>
@@ -67370,26 +67358,14 @@ Psy	- Gangnam Style</desc>
   <channel id="uciworldtourstage4tourdefrance">
     <display-name>UCI World Tour Stage 4 - Tour de France</display-name>
   </channel>
-  <channel id="pdcdartsplayerschampionship21mattioliarenaleicester">
-    <display-name>PDC Darts Players Championship 21 - Mattioli Arena, Leicester</display-name>
-  </channel>
   <channel id="ehfbeachhandballeuro2025francewomenvsnorwaywomen">
     <display-name>EHF Beach Handball EURO 2025 : France Women vs Norway Women</display-name>
   </channel>
   <channel id="ehfbeachhandballeuro2025ukrainewomenvshungarywomen">
     <display-name>EHF Beach Handball EURO 2025 : Ukraine Women vs Hungary Women</display-name>
   </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
-  <channel id="liveracingfrompontefracctandtramore">
-    <display-name>Live racing from Pontefracct and Tramore</display-name>
-  </channel>
   <channel id="2024calgarystampede">
     <display-name>2024 Calgary Stampede</display-name>
-  </channel>
-  <channel id="worldcup2025lonatodelgardawomensskeet">
-    <display-name>World Cup 2025-Lonato del Garda: Women's Skeet</display-name>
   </channel>
   <programme start="20250708000000 +0200" stop="20250708200000 +0200" channel="thesmurfsfirebrigadeonfootepisode38">
     <title lang="it">Inizia alle 20:00.</title>
@@ -67440,16 +67416,6 @@ Psy	- Gangnam Style</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Miss Universe Latina, el reality New</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <programme start="20250708000000 +0200" stop="20250708140000 +0200" channel="worldclubfriendlynovipazarsrbvsmladostsrb">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">World - Club Friendly : Novi Pazar (Srb) vs Mladost (Srb).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708140000 +0200" stop="20250708160000 +0200" channel="worldclubfriendlynovipazarsrbvsmladostsrb">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World - Club Friendly : Novi Pazar (Srb) vs Mladost (Srb)</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <programme start="20250708000000 +0200" stop="20250708173000 +0200" channel="worldclubfriendlyvojvodinavsfehrvr">
     <title lang="it">Inizia alle 17:30.</title>
@@ -68471,26 +68437,6 @@ Psy	- Gangnam Style</desc>
     <desc lang="it">NatWest T20 Blast : Somerset vs Essex</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20250708000000 +0200" stop="20250708140000 +0200" channel="atpwimbledonfritztvskhachanovk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Fritz T. vs Khachanov K..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708140000 +0200" stop="20250708160000 +0200" channel="atpwimbledonfritztvskhachanovk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Fritz T. vs Khachanov K.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
-  <programme start="20250708000000 +0200" stop="20250708140000 +0200" channel="atpwimbledonfritztvskhachanovk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP - WIMBLEDON : Fritz T. vs Khachanov K..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708140000 +0200" stop="20250708160000 +0200" channel="atpwimbledonfritztvskhachanovk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - WIMBLEDON : Fritz T. vs Khachanov K.</desc>
-    <category lang="it">Tennis ATP - WIMBLEDON</category>
-  </programme>
   <programme start="20250708000000 +0200" stop="20250708160000 +0200" channel="atpwimbledonnorriecvsalcarazc">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">ATP - WIMBLEDON : Norrie C. vs Alcaraz C..</desc>
@@ -68521,26 +68467,6 @@ Psy	- Gangnam Style</desc>
     <desc lang="it">ATP - WIMBLEDON : Wimbledon Highlight Show</desc>
     <category lang="it">Tennis ATP - WIMBLEDON</category>
   </programme>
-  <programme start="20250708000000 +0200" stop="20250708143000 +0200" channel="wtawimbledonsabalenkaavssiegemundl">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA - WIMBLEDON : Sabalenka A. vs Siegemund L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708143000 +0200" stop="20250708163000 +0200" channel="wtawimbledonsabalenkaavssiegemundl">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Sabalenka A. vs Siegemund L.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250708000000 +0200" stop="20250708143000 +0200" channel="wtawimbledonsabalenkaavssiegemundl">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA - WIMBLEDON : Sabalenka A. vs Siegemund L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708143000 +0200" stop="20250708163000 +0200" channel="wtawimbledonsabalenkaavssiegemundl">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Sabalenka A. vs Siegemund L.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
   <programme start="20250708000000 +0200" stop="20250708160000 +0200" channel="wtawimbledonanisimovaavspavlyuchenkovaa">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">WTA - WIMBLEDON : Anisimova A. vs Pavlyuchenkova A..</desc>
@@ -68560,26 +68486,6 @@ Psy	- Gangnam Style</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">WTA - WIMBLEDON : Anisimova A. vs Pavlyuchenkova A.</desc>
     <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250708000000 +0200" stop="20250708140000 +0200" channel="wtadoubleswimbledongadeckiokrawczykdvsdolehideckenins">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON : Gadecki O./Krawczyk D. vs Dolehide C./Kenin S..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708140000 +0200" stop="20250708160000 +0200" channel="wtadoubleswimbledongadeckiokrawczykdvsdolehideckenins">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON : Gadecki O./Krawczyk D. vs Dolehide C./Kenin S.</desc>
-    <category lang="it">Tennis WTA DOUBLES - WIMBLEDON</category>
-  </programme>
-  <programme start="20250708000000 +0200" stop="20250708140000 +0200" channel="wtadoubleswimbledongadeckiokrawczykdvsdolehideckenins">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON : Gadecki O./Krawczyk D. vs Dolehide C./Kenin S..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708140000 +0200" stop="20250708160000 +0200" channel="wtadoubleswimbledongadeckiokrawczykdvsdolehideckenins">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON : Gadecki O./Krawczyk D. vs Dolehide C./Kenin S.</desc>
-    <category lang="it">Tennis WTA DOUBLES - WIMBLEDON</category>
   </programme>
   <programme start="20250708000000 +0200" stop="20250708180000 +0200" channel="wtadoubleswimbledonkudermetovavmertensevsdabrowskigroutliffee">
     <title lang="it">Inizia alle 18:00.</title>
@@ -69191,16 +69097,6 @@ Psy	- Gangnam Style</desc>
     <desc lang="it">UCI World Tour Stage 4 - Tour de France</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <programme start="20250708000000 +0200" stop="20250708140000 +0200" channel="pdcdartsplayerschampionship21mattioliarenaleicester">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">PDC Darts Players Championship 21 - Mattioli Arena, Leicester.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708140000 +0200" stop="20250708160000 +0200" channel="pdcdartsplayerschampionship21mattioliarenaleicester">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PDC Darts Players Championship 21 - Mattioli Arena, Leicester</desc>
-    <category lang="it">Darts</category>
-  </programme>
   <programme start="20250708000000 +0200" stop="20250708170000 +0200" channel="ehfbeachhandballeuro2025francewomenvsnorwaywomen">
     <title lang="it">Inizia alle 17:00.</title>
     <desc lang="it">EHF Beach Handball EURO 2025 : France Women vs Norway Women.</desc>
@@ -69221,26 +69117,6 @@ Psy	- Gangnam Style</desc>
     <desc lang="it">EHF Beach Handball EURO 2025 : Ukraine Women vs Hungary Women</desc>
     <category lang="it">Handball</category>
   </programme>
-  <programme start="20250708000000 +0200" stop="20250708140000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708140000 +0200" stop="20250708160000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20250708000000 +0200" stop="20250708144500 +0200" channel="liveracingfrompontefracctandtramore">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">Live racing from Pontefracct and Tramore.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708144500 +0200" stop="20250708164500 +0200" channel="liveracingfrompontefracctandtramore">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Pontefracct and Tramore</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
   <programme start="20250708000000 +0200" stop="20250708213000 +0200" channel="2024calgarystampede">
     <title lang="it">Inizia alle 21:30.</title>
     <desc lang="it">2024 Calgary Stampede.</desc>
@@ -69260,15 +69136,5 @@ Psy	- Gangnam Style</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">2024 Calgary Stampede</desc>
     <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20250708000000 +0200" stop="20250708144500 +0200" channel="worldcup2025lonatodelgardawomensskeet">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">World Cup 2025-Lonato del Garda: Women's Skeet.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708144500 +0200" stop="20250708164500 +0200" channel="worldcup2025lonatodelgardawomensskeet">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup 2025-Lonato del Garda: Women's Skeet</desc>
-    <category lang="it">Shooting</category>
   </programme>
 </tv>
