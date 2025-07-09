@@ -65503,15 +65503,6 @@ Galantis - In My Head</desc>
   <channel id="atpwimbledonwimbledonhighlightshow">
     <display-name>ATP - WIMBLEDON : Wimbledon Highlight Show</display-name>
   </channel>
-  <channel id="wtawimbledonswiatekivssamsonoval">
-    <display-name>WTA - WIMBLEDON : Swiatek I. vs Samsonova L.</display-name>
-  </channel>
-  <channel id="wtawimbledonandreevamvsbencicb">
-    <display-name>WTA - WIMBLEDON : Andreeva M. vs Bencic B.</display-name>
-  </channel>
-  <channel id="atpdoubleswimbledonsalisburyjskupskinvsgranollersmzeballosh">
-    <display-name>ATP DOUBLES - WIMBLEDON : Salisbury J./Skupski N. vs Granollers M./Zeballos H.</display-name>
-  </channel>
   <channel id="wtadoubleswimbledonsiniakovaktownsendtvsbaboststefanil">
     <display-name>WTA DOUBLES - WIMBLEDON : Siniakova K./Townsend T. vs Babos T./Stefani L.</display-name>
   </channel>
@@ -65587,23 +65578,11 @@ Galantis - In My Head</desc>
   <channel id="uciworldtourstage3tourdefrance">
     <display-name>UCI World Tour Stage 3 - Tour de France</display-name>
   </channel>
-  <channel id="playerschampionship21mattioliarenaleicester">
-    <display-name>Players Championship 21 - Mattioli Arena, Leicester</display-name>
-  </channel>
-  <channel id="u19ehfeurowomenczechrepublicvspoland">
-    <display-name>U19 EHF Euro Women : Czech Republic vs. Poland</display-name>
-  </channel>
   <channel id="u19ehfeurowomengermanyvsspain">
     <display-name>U19 EHF Euro Women : Germany vs. Spain</display-name>
   </channel>
   <channel id="u19ehfeurowomenhungaryvsnorthmacedonia">
     <display-name>U19 EHF Euro Women : Hungary vs. North Macedonia</display-name>
-  </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
-  <channel id="liveracingfromcatterickkemptonandfairyhouse">
-    <display-name>Live racing from Catterick, Kempton and Fairyhouse</display-name>
   </channel>
   <channel id="2024calgarystampede">
     <display-name>2024 Calgary Stampede</display-name>
@@ -67078,66 +67057,6 @@ Galantis - In My Head</desc>
     <desc lang="it">ATP - WIMBLEDON : Wimbledon Highlight Show</desc>
     <category lang="it">Tennis ATP - WIMBLEDON</category>
   </programme>
-  <programme start="20250709000000 +0200" stop="20250709140000 +0200" channel="wtawimbledonswiatekivssamsonoval">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Swiatek I. vs Samsonova L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709140000 +0200" stop="20250709160000 +0200" channel="wtawimbledonswiatekivssamsonoval">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Swiatek I. vs Samsonova L.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709140000 +0200" channel="wtawimbledonswiatekivssamsonoval">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Swiatek I. vs Samsonova L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709140000 +0200" stop="20250709160000 +0200" channel="wtawimbledonswiatekivssamsonoval">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Swiatek I. vs Samsonova L.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709143000 +0200" channel="wtawimbledonandreevamvsbencicb">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA - WIMBLEDON : Andreeva M. vs Bencic B..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709143000 +0200" stop="20250709163000 +0200" channel="wtawimbledonandreevamvsbencicb">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Andreeva M. vs Bencic B.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709143000 +0200" channel="wtawimbledonandreevamvsbencicb">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA - WIMBLEDON : Andreeva M. vs Bencic B..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709143000 +0200" stop="20250709163000 +0200" channel="wtawimbledonandreevamvsbencicb">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Andreeva M. vs Bencic B.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709140000 +0200" channel="atpdoubleswimbledonsalisburyjskupskinvsgranollersmzeballosh">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP DOUBLES - WIMBLEDON : Salisbury J./Skupski N. vs Granollers M./Zeballos H..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709140000 +0200" stop="20250709160000 +0200" channel="atpdoubleswimbledonsalisburyjskupskinvsgranollersmzeballosh">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP DOUBLES - WIMBLEDON : Salisbury J./Skupski N. vs Granollers M./Zeballos H.</desc>
-    <category lang="it">Tennis ATP DOUBLES - WIMBLEDON</category>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709140000 +0200" channel="atpdoubleswimbledonsalisburyjskupskinvsgranollersmzeballosh">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP DOUBLES - WIMBLEDON : Salisbury J./Skupski N. vs Granollers M./Zeballos H..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709140000 +0200" stop="20250709160000 +0200" channel="atpdoubleswimbledonsalisburyjskupskinvsgranollersmzeballosh">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP DOUBLES - WIMBLEDON : Salisbury J./Skupski N. vs Granollers M./Zeballos H.</desc>
-    <category lang="it">Tennis ATP DOUBLES - WIMBLEDON</category>
-  </programme>
   <programme start="20250709000000 +0200" stop="20250709153000 +0200" channel="wtadoubleswimbledonsiniakovaktownsendtvsbaboststefanil">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">WTA DOUBLES - WIMBLEDON : Siniakova K./Townsend T. vs Babos T./Stefani L..</desc>
@@ -67928,36 +67847,6 @@ Galantis - In My Head</desc>
     <desc lang="it">UCI World Tour Stage 3 - Tour de France</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <programme start="20250709000000 +0200" stop="20250709140000 +0200" channel="playerschampionship21mattioliarenaleicester">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Players Championship 21 - Mattioli Arena, Leicester.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709140000 +0200" stop="20250709160000 +0200" channel="playerschampionship21mattioliarenaleicester">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Players Championship 21 - Mattioli Arena, Leicester</desc>
-    <category lang="it">Darts</category>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709143000 +0200" channel="u19ehfeurowomenczechrepublicvspoland">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">U19 EHF Euro Women : Czech Republic vs. Poland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709143000 +0200" stop="20250709163000 +0200" channel="u19ehfeurowomenczechrepublicvspoland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">U19 EHF Euro Women : Czech Republic vs. Poland</desc>
-    <category lang="it">Handball</category>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709143000 +0200" channel="u19ehfeurowomenczechrepublicvspoland">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">U19 EHF Euro Women : Czech Republic vs. Poland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709143000 +0200" stop="20250709163000 +0200" channel="u19ehfeurowomenczechrepublicvspoland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">U19 EHF Euro Women : Czech Republic vs. Poland</desc>
-    <category lang="it">Handball</category>
-  </programme>
   <programme start="20250709000000 +0200" stop="20250709170000 +0200" channel="u19ehfeurowomengermanyvsspain">
     <title lang="it">Inizia alle 17:00.</title>
     <desc lang="it">U19 EHF Euro Women : Germany vs. Spain.</desc>
@@ -67997,26 +67886,6 @@ Galantis - In My Head</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">U19 EHF Euro Women : Hungary vs. North Macedonia</desc>
     <category lang="it">Handball</category>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709140000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709140000 +0200" stop="20250709160000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709144500 +0200" channel="liveracingfromcatterickkemptonandfairyhouse">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">Live racing from Catterick, Kempton and Fairyhouse.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709144500 +0200" stop="20250709164500 +0200" channel="liveracingfromcatterickkemptonandfairyhouse">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Catterick, Kempton and Fairyhouse</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
   <programme start="20250709000000 +0200" stop="20250709213000 +0200" channel="2024calgarystampede">
     <title lang="it">Inizia alle 21:30.</title>
