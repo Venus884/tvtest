@@ -65041,15 +65041,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
   <channel id="natwestt20blastderbyshirevsworcestershire">
     <display-name>NatWest T20 Blast : Derbyshire vs Worcestershire</display-name>
   </channel>
-  <channel id="wtawimbledonsabalenkaavsanisimovaa">
-    <display-name>WTA - WIMBLEDON : Sabalenka A. vs Anisimova A.</display-name>
-  </channel>
-  <channel id="wtawimbledonbencicbvsswiateki">
-    <display-name>WTA - WIMBLEDON : Bencic B. vs Swiatek I.</display-name>
-  </channel>
-  <channel id="atpdoubleswimbledonarevalompavicmvshijikatarpeld">
-    <display-name>ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Hijikata R./Pel D.</display-name>
-  </channel>
   <channel id="atpdoubleswimbledongranollersmzeballoshvscashjglasspooll">
     <display-name>ATP DOUBLES - WIMBLEDON : Granollers M./Zeballos H. vs Cash J./Glasspool L.</display-name>
   </channel>
@@ -65118,15 +65109,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
   </channel>
   <channel id="nbalasvegassummerleaguesacramentokingsvsorlandomagic">
     <display-name>NBA Las Vegas Summer League : Sacramento Kings vs Orlando Magic</display-name>
-  </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
-  <channel id="liveracingfromnewmarketcarlisleepsomandleopardstown">
-    <display-name>Live racing from Newmarket, Carlisle, Epsom and Leopardstown</display-name>
-  </channel>
-  <channel id="liveracingfromnewmarket">
-    <display-name>Live racing from Newmarket</display-name>
   </channel>
   <channel id="horseracingsaratogalive">
     <display-name>Horse Racing Saratoga Live</display-name>
@@ -66193,66 +66175,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
     <desc lang="it">NatWest T20 Blast : Derbyshire vs Worcestershire</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20250710000000 +0200" stop="20250710140000 +0200" channel="wtawimbledonsabalenkaavsanisimovaa">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Sabalenka A. vs Anisimova A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250710140000 +0200" stop="20250710160000 +0200" channel="wtawimbledonsabalenkaavsanisimovaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Sabalenka A. vs Anisimova A.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250710000000 +0200" stop="20250710140000 +0200" channel="wtawimbledonsabalenkaavsanisimovaa">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - WIMBLEDON : Sabalenka A. vs Anisimova A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250710140000 +0200" stop="20250710160000 +0200" channel="wtawimbledonsabalenkaavsanisimovaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Sabalenka A. vs Anisimova A.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250710000000 +0200" stop="20250710143000 +0200" channel="wtawimbledonbencicbvsswiateki">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA - WIMBLEDON : Bencic B. vs Swiatek I..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250710143000 +0200" stop="20250710163000 +0200" channel="wtawimbledonbencicbvsswiateki">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Bencic B. vs Swiatek I.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250710000000 +0200" stop="20250710143000 +0200" channel="wtawimbledonbencicbvsswiateki">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA - WIMBLEDON : Bencic B. vs Swiatek I..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250710143000 +0200" stop="20250710163000 +0200" channel="wtawimbledonbencicbvsswiateki">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - WIMBLEDON : Bencic B. vs Swiatek I.</desc>
-    <category lang="it">Tennis WTA - WIMBLEDON</category>
-  </programme>
-  <programme start="20250710000000 +0200" stop="20250710140000 +0200" channel="atpdoubleswimbledonarevalompavicmvshijikatarpeld">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Hijikata R./Pel D..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250710140000 +0200" stop="20250710160000 +0200" channel="atpdoubleswimbledonarevalompavicmvshijikatarpeld">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Hijikata R./Pel D.</desc>
-    <category lang="it">Tennis ATP DOUBLES - WIMBLEDON</category>
-  </programme>
-  <programme start="20250710000000 +0200" stop="20250710140000 +0200" channel="atpdoubleswimbledonarevalompavicmvshijikatarpeld">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Hijikata R./Pel D..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250710140000 +0200" stop="20250710160000 +0200" channel="atpdoubleswimbledonarevalompavicmvshijikatarpeld">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Hijikata R./Pel D.</desc>
-    <category lang="it">Tennis ATP DOUBLES - WIMBLEDON</category>
-  </programme>
   <programme start="20250710000000 +0200" stop="20250710153000 +0200" channel="atpdoubleswimbledongranollersmzeballoshvscashjglasspooll">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">ATP DOUBLES - WIMBLEDON : Granollers M./Zeballos H. vs Cash J./Glasspool L..</desc>
@@ -66942,36 +66864,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NBA Las Vegas Summer League : Sacramento Kings vs Orlando Magic</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250710000000 +0200" stop="20250710140000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250710140000 +0200" stop="20250710160000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20250710000000 +0200" stop="20250710143000 +0200" channel="liveracingfromnewmarketcarlisleepsomandleopardstown">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Live racing from Newmarket, Carlisle, Epsom and Leopardstown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250710143000 +0200" stop="20250710163000 +0200" channel="liveracingfromnewmarketcarlisleepsomandleopardstown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Newmarket, Carlisle, Epsom and Leopardstown</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20250710000000 +0200" stop="20250710143000 +0200" channel="liveracingfromnewmarket">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Live racing from Newmarket.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250710143000 +0200" stop="20250710163000 +0200" channel="liveracingfromnewmarket">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Newmarket</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
   <programme start="20250710000000 +0200" stop="20250710190000 +0200" channel="horseracingsaratogalive">
     <title lang="it">Inizia alle 19:00.</title>
