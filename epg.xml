@@ -66055,18 +66055,6 @@ Charly &amp; Johayron X Ja Rulay X Cuban Deejays	- Toki Toki</desc>
   <channel id="impracticaljokersseason12episode1">
     <display-name>Impractical Jokers Season 12, Episode 1</display-name>
   </channel>
-  <channel id="worldclubfriendlyslaviaprahavsdynamodresden">
-    <display-name>World - Club Friendly : Slavia Praha vs Dynamo Dresden</display-name>
-  </channel>
-  <channel id="swedenallsvenskanbrommapojkarnavsster">
-    <display-name>Sweden - Allsvenskan : Brommapojkarna vs Öster</display-name>
-  </channel>
-  <channel id="swedenallsvenskangaisvshammarby">
-    <display-name>Sweden - Allsvenskan : GAIS vs Hammarby</display-name>
-  </channel>
-  <channel id="norwayeliteserienbrynevsvlerenga">
-    <display-name>Norway - Eliteserien : Bryne vs Vålerenga</display-name>
-  </channel>
   <channel id="worldclubfriendlyprestonnorthendvsliverpool">
     <display-name>World - Club Friendly : Preston North End vs Liverpool</display-name>
   </channel>
@@ -66226,20 +66214,11 @@ Charly &amp; Johayron X Ja Rulay X Cuban Deejays	- Toki Toki</desc>
   <channel id="atpwimbledonsinnerjvsalcarazcfinal">
     <display-name>ATP - WIMBLEDON : Sinner J. vs Alcaraz C. Final</display-name>
   </channel>
-  <channel id="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <display-name>WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E.</display-name>
-  </channel>
   <channel id="2025wimbledonchampionshipsgentlemenssinglesfinal">
     <display-name>2025 Wimbledon Championships Gentlemen's Singles Final</display-name>
   </channel>
   <channel id="majorleaguepickleballmlpmidseasontournamentchampionships">
     <display-name>Major League Pickleball MLP Mid-Season Tournament: Championships</display-name>
-  </channel>
-  <channel id="motogpgermangrandprixrace">
-    <display-name>MotoGP : German Grand Prix Race</display-name>
-  </channel>
-  <channel id="fimsuperbikeworldchampionshipukroundsuperbikerace2">
-    <display-name>FIM Superbike World Championship - UK Round: Superbike Race 2</display-name>
   </channel>
   <channel id="fiaeuropeantruckracingchampionship2025nurburgringrace4">
     <display-name>FIA European Truck Racing Championship 2025: Nurburgring Race 4</display-name>
@@ -66436,9 +66415,6 @@ Charly &amp; Johayron X Ja Rulay X Cuban Deejays	- Toki Toki</desc>
   <channel id="gaaallirelandseniorchampionshipsemifinalmeathvsdonegal">
     <display-name>GAA All-Ireland Senior Championship Semi Final : Meath vs. Donegal</display-name>
   </channel>
-  <channel id="liveracingfromperthstratfordnavanandsligo">
-    <display-name>Live racing from Perth, Stratford, Navan and Sligo</display-name>
-  </channel>
   <channel id="liveracingfromaroundtheuk">
     <display-name>Live racing from around the UK</display-name>
   </channel>
@@ -66512,96 +66488,6 @@ Charly &amp; Johayron X Ja Rulay X Cuban Deejays	- Toki Toki</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Impractical Jokers Season 12, Episode 1</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="worldclubfriendlyslaviaprahavsdynamodresden">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">World - Club Friendly : Slavia Praha vs Dynamo Dresden.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="worldclubfriendlyslaviaprahavsdynamodresden">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World - Club Friendly : Slavia Praha vs Dynamo Dresden</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="swedenallsvenskanbrommapojkarnavsster">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Sweden - Allsvenskan : Brommapojkarna vs Öster.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="swedenallsvenskanbrommapojkarnavsster">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Sweden - Allsvenskan : Brommapojkarna vs Öster</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="swedenallsvenskangaisvshammarby">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Sweden - Allsvenskan : GAIS vs Hammarby.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="swedenallsvenskangaisvshammarby">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Sweden - Allsvenskan : GAIS vs Hammarby</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="swedenallsvenskangaisvshammarby">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Sweden - Allsvenskan : GAIS vs Hammarby.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="swedenallsvenskangaisvshammarby">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Sweden - Allsvenskan : GAIS vs Hammarby</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="swedenallsvenskangaisvshammarby">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Sweden - Allsvenskan : GAIS vs Hammarby.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="swedenallsvenskangaisvshammarby">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Sweden - Allsvenskan : GAIS vs Hammarby</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="swedenallsvenskangaisvshammarby">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Sweden - Allsvenskan : GAIS vs Hammarby.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="swedenallsvenskangaisvshammarby">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Sweden - Allsvenskan : GAIS vs Hammarby</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713143000 +0200" channel="norwayeliteserienbrynevsvlerenga">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Norway - Eliteserien : Bryne vs Vålerenga.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713143000 +0200" stop="20250713163000 +0200" channel="norwayeliteserienbrynevsvlerenga">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Norway - Eliteserien : Bryne vs Vålerenga</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713143000 +0200" channel="norwayeliteserienbrynevsvlerenga">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Norway - Eliteserien : Bryne vs Vålerenga.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713143000 +0200" stop="20250713163000 +0200" channel="norwayeliteserienbrynevsvlerenga">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Norway - Eliteserien : Bryne vs Vålerenga</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713143000 +0200" channel="norwayeliteserienbrynevsvlerenga">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Norway - Eliteserien : Bryne vs Vålerenga.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713143000 +0200" stop="20250713163000 +0200" channel="norwayeliteserienbrynevsvlerenga">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Norway - Eliteserien : Bryne vs Vålerenga</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <programme start="20250713000000 +0200" stop="20250713160000 +0200" channel="worldclubfriendlyprestonnorthendvsliverpool">
     <title lang="it">Inizia alle 16:00.</title>
@@ -68433,76 +68319,6 @@ Charly &amp; Johayron X Ja Rulay X Cuban Deejays	- Toki Toki</desc>
     <desc lang="it">ATP - WIMBLEDON : Sinner J. vs Alcaraz C. Final</desc>
     <category lang="it">Tennis Final - ATP WIMBLEDON</category>
   </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E.</desc>
-    <category lang="it">Tennis WTA DOUBLES - WIMBLEDON</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E.</desc>
-    <category lang="it">Tennis WTA DOUBLES - WIMBLEDON</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E.</desc>
-    <category lang="it">Tennis WTA DOUBLES - WIMBLEDON</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E.</desc>
-    <category lang="it">Tennis WTA DOUBLES - WIMBLEDON</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E.</desc>
-    <category lang="it">Tennis WTA DOUBLES - WIMBLEDON</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E.</desc>
-    <category lang="it">Tennis WTA DOUBLES - WIMBLEDON</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="wtadoubleswimbledonhsiehswostapenkojvskudermetovavmertense">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E.</desc>
-    <category lang="it">Tennis WTA DOUBLES - WIMBLEDON</category>
-  </programme>
   <programme start="20250713000000 +0200" stop="20250713163000 +0200" channel="2025wimbledonchampionshipsgentlemenssinglesfinal">
     <title lang="it">Inizia alle 16:30.</title>
     <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final.</desc>
@@ -69162,236 +68978,6 @@ Charly &amp; Johayron X Ja Rulay X Cuban Deejays	- Toki Toki</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Major League Pickleball MLP Mid-Season Tournament: Championships</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="motogpgermangrandprixrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713143000 +0200" channel="fimsuperbikeworldchampionshipukroundsuperbikerace2">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">FIM Superbike World Championship - UK Round: Superbike Race 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713143000 +0200" stop="20250713163000 +0200" channel="fimsuperbikeworldchampionshipukroundsuperbikerace2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Superbike World Championship - UK Round: Superbike Race 2</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <programme start="20250713000000 +0200" stop="20250713144500 +0200" channel="fiaeuropeantruckracingchampionship2025nurburgringrace4">
     <title lang="it">Inizia alle 14:45.</title>
@@ -71072,16 +70658,6 @@ Charly &amp; Johayron X Ja Rulay X Cuban Deejays	- Toki Toki</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">GAA All-Ireland Senior Championship Semi Final : Meath vs. Donegal</desc>
     <category lang="it">GAA</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713143000 +0200" channel="liveracingfromperthstratfordnavanandsligo">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Live racing from Perth, Stratford, Navan and Sligo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713143000 +0200" stop="20250713163000 +0200" channel="liveracingfromperthstratfordnavanandsligo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Perth, Stratford, Navan and Sligo</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
   <programme start="20250713000000 +0200" stop="20250713154500 +0200" channel="liveracingfromaroundtheuk">
     <title lang="it">Inizia alle 15:45.</title>
