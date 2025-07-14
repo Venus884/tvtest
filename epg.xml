@@ -64415,12 +64415,6 @@ Professor Green Ft. Ed Drewett	- I Need You Tonight</desc>
   <channel id="wtahamburguchijimamvsschunkn">
     <display-name>WTA - HAMBURG : Uchijima M. vs Schunk N.</display-name>
   </channel>
-  <channel id="wtaiasibulgarumvsteichmannj">
-    <display-name>WTA - IASI : Bulgaru M. vs Teichmann J.</display-name>
-  </channel>
-  <channel id="wtaiasifettjvserjavecv">
-    <display-name>WTA - IASI : Fett J. vs Erjavec V.</display-name>
-  </channel>
   <channel id="wtaiasibeguivshibinon">
     <display-name>WTA - IASI : Begu I. vs Hibino N.</display-name>
   </channel>
@@ -64448,9 +64442,6 @@ Professor Green Ft. Ed Drewett	- I Need You Tonight</desc>
   <channel id="primierodolomitimarathon2025sanmartinodicastrozzaprimiero">
     <display-name>Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero</display-name>
   </channel>
-  <channel id="eurobasketu20polandu20vsisraelu20">
-    <display-name>EuroBasket U20 : Poland U20 vs Israel U20</display-name>
-  </channel>
   <channel id="eurobasketu20greeceu20vsromaniau20">
     <display-name>EuroBasket U20 : Greece U20 vs Romania U20</display-name>
   </channel>
@@ -64462,12 +64453,6 @@ Professor Green Ft. Ed Drewett	- I Need You Tonight</desc>
   </channel>
   <channel id="nbalasvegassummerleaguecharlottehornetsvsdallasmavericks">
     <display-name>NBA Las Vegas Summer League : Charlotte Hornets vs Dallas Mavericks</display-name>
-  </channel>
-  <channel id="liveracingfromayrdownpatrickandkillarney">
-    <display-name>Live racing from Ayr, Downpatrick and Killarney</display-name>
-  </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
   </channel>
   <channel id="worldchampionshipu20englandu20vswalesu20">
     <display-name>World Championship U20 : England U20 vs Wales U20</display-name>
@@ -64489,9 +64474,6 @@ Professor Green Ft. Ed Drewett	- I Need You Tonight</desc>
   </channel>
   <channel id="premierpadelfirstroundtravelp1">
     <display-name>Premier Padel, First Round Travel P1</display-name>
-  </channel>
-  <channel id="worldchampionshipitalyvsserbia">
-    <display-name>World Championship : Italy vs Serbia</display-name>
   </channel>
   <programme start="20250714000000 +0200" stop="20250714200000 +0200" channel="beyondthegatesseason1episode89">
     <title lang="it">Inizia alle 20:00.</title>
@@ -64873,26 +64855,6 @@ Professor Green Ft. Ed Drewett	- I Need You Tonight</desc>
     <desc lang="it">WTA - HAMBURG : Uchijima M. vs Schunk N.</desc>
     <category lang="it">Tennis WTA - HAMBURG :</category>
   </programme>
-  <programme start="20250714000000 +0200" stop="20250714143000 +0200" channel="wtaiasibulgarumvsteichmannj">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA - IASI : Bulgaru M. vs Teichmann J..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250714143000 +0200" stop="20250714163000 +0200" channel="wtaiasibulgarumvsteichmannj">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - IASI : Bulgaru M. vs Teichmann J.</desc>
-    <category lang="it">Tennis WTA - IASI :</category>
-  </programme>
-  <programme start="20250714000000 +0200" stop="20250714143000 +0200" channel="wtaiasifettjvserjavecv">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA - IASI : Fett J. vs Erjavec V..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250714143000 +0200" stop="20250714163000 +0200" channel="wtaiasifettjvserjavecv">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - IASI : Fett J. vs Erjavec V.</desc>
-    <category lang="it">Tennis WTA - IASI :</category>
-  </programme>
   <programme start="20250714000000 +0200" stop="20250714160000 +0200" channel="wtaiasibeguivshibinon">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">WTA - IASI : Begu I. vs Hibino N..</desc>
@@ -65003,16 +64965,6 @@ Professor Green Ft. Ed Drewett	- I Need You Tonight</desc>
     <desc lang="it">Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero</desc>
     <category lang="it">Athletics</category>
   </programme>
-  <programme start="20250714000000 +0200" stop="20250714142000 +0200" channel="eurobasketu20polandu20vsisraelu20">
-    <title lang="it">Inizia alle 14:20.</title>
-    <desc lang="it">EuroBasket U20 : Poland U20 vs Israel U20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250714142000 +0200" stop="20250714162000 +0200" channel="eurobasketu20polandu20vsisraelu20">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">EuroBasket U20 : Poland U20 vs Israel U20</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20250714000000 +0200" stop="20250714170000 +0200" channel="eurobasketu20greeceu20vsromaniau20">
     <title lang="it">Inizia alle 17:00.</title>
     <desc lang="it">EuroBasket U20 : Greece U20 vs Romania U20.</desc>
@@ -65113,26 +65065,6 @@ Professor Green Ft. Ed Drewett	- I Need You Tonight</desc>
     <desc lang="it">NBA Las Vegas Summer League : Charlotte Hornets vs Dallas Mavericks</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <programme start="20250714000000 +0200" stop="20250714143000 +0200" channel="liveracingfromayrdownpatrickandkillarney">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Live racing from Ayr, Downpatrick and Killarney.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250714143000 +0200" stop="20250714163000 +0200" channel="liveracingfromayrdownpatrickandkillarney">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Ayr, Downpatrick and Killarney</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20250714000000 +0200" stop="20250714144500 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250714144500 +0200" stop="20250714164500 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
   <programme start="20250714000000 +0200" stop="20250714153000 +0200" channel="worldchampionshipu20englandu20vswalesu20">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">World Championship U20 : England U20 vs Wales U20.</desc>
@@ -65402,25 +65334,5 @@ Professor Green Ft. Ed Drewett	- I Need You Tonight</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Premier Padel, First Round Travel P1</desc>
     <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250714000000 +0200" stop="20250714144500 +0200" channel="worldchampionshipitalyvsserbia">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">World Championship : Italy vs Serbia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250714144500 +0200" stop="20250714164500 +0200" channel="worldchampionshipitalyvsserbia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship : Italy vs Serbia</desc>
-    <category lang="it">Water polo</category>
-  </programme>
-  <programme start="20250714000000 +0200" stop="20250714144500 +0200" channel="worldchampionshipitalyvsserbia">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">World Championship : Italy vs Serbia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250714144500 +0200" stop="20250714164500 +0200" channel="worldchampionshipitalyvsserbia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship : Italy vs Serbia</desc>
-    <category lang="it">Water polo</category>
   </programme>
 </tv>
