@@ -260,6 +260,9 @@ https://venusia084-tvproxyhd.hf.space/extractor/video?host=DLHD&redirect_stream=
 #EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="21:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
 https://venusia084-tvproxyhd.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=messina25&d=https://daddylive.dad/stream/stream-144.php
 
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="21:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Network USA
+https://venusia084-tvproxyhd.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=messina25&d=https://daddylive.dad/stream/stream-5000.php
+
 #EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="21:00 England - League Cup : Birmingham City vs Sheffield United - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Golazo USA
 https://venusia084-tvproxyhd.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=messina25&d=https://daddylive.dad/stream/stream-910.php
 
